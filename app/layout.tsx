@@ -15,7 +15,7 @@ const noto = Noto_Sans_KR({
 });
 
 export const metadata: Metadata = {
-  title: "☀️ 아인이의 오답노트",
+  title: "🍬 아인이의 오답노트",
   description: "문제 사진 올리면 AI가 유사 문제 뚝딱!",
 };
 
