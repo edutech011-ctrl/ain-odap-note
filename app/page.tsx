@@ -71,13 +71,12 @@ export default function Home() {
 
       {/* ══ 헤더 ══ */}
       <header style={{
-        background: "linear-gradient(135deg, #fdf2f8 0%, #fce7f3 50%, #f3e8ff 100%)",
+        background: "#ffffff",
         padding: "32px 16px 28px",
         textAlign: "center",
-        boxShadow: "0 6px 28px rgba(244,114,182,0.15)",
         position: "relative",
         overflow: "hidden",
-        borderBottom: "2px solid rgba(244,114,182,0.15)",
+        borderBottom: "1.5px solid #f3f4f6",
       }}>
         {/* 배경 데코 */}
         {DECOS.map((d, i) => (
