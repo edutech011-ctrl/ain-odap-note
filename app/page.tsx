@@ -114,7 +114,6 @@ export default function Home() {
               문제 사진 찍어 올리면 AI가 유사 문제 뚝딱! 🌸✨
             </p>
           </div>
-          <Image src="/ganadi.png" alt="가나디" width={80} height={80} style={{ objectFit: "contain" }} />
         </div>
       </header>
 
@@ -161,7 +160,7 @@ export default function Home() {
               </div>
             ) : (
               <>
-                <div style={{ fontSize: "54px", marginBottom: "10px" }}>🍬</div>
+                <div style={{ fontSize: "54px", marginBottom: "10px" }}>☁️</div>
                 <p style={{ color: "#f472b6", fontSize: "17px", fontFamily: "var(--font-gaegu)", fontWeight: 700 }}>
                   여기 클릭하거나 사진 끌어다 놓기
                 </p>
